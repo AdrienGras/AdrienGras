@@ -1,4 +1,4 @@
 - 👋 Hello, moi c'est @AdrienGras
 - 🏡 Je suis architecte solution dans ma propre boite de conseil & développement : Owlnext🦉
+- ✨ J'adore coder en PHP et en Rust
 - 📫 Vous pouvez me contacter via agr@owlnext.fr
-
